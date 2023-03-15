@@ -1,0 +1,11 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 100,
+      "driver": "SQLite",
+      "name": "Subscription",
+      "database": "${workspaceFolder:email subscription django}/subscriptionproject/db.sqlite3"
+    }
+  ],
+  "sqltools.useNodeRuntime": true
+}
